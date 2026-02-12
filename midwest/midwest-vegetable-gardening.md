@@ -35,8 +35,6 @@ keywords:
   - frost date planting guide
 description: "The complete guide to vegetable gardening in the Midwest. Month-by-month planting calendars, 30+ vegetable profiles, and state-specific advice for Ohio, Indiana, Illinois, Michigan, Wisconsin, Minnesota, Iowa, Missouri, Kansas, Nebraska, and the Dakotas. Covers soil, frost management, pests, season extension, and making the most of your 120-180 day growing season."
 belongs-to-collection: "Harvest Home Guides"
-cover-image: "cover.jpg"
-css: "style.css"
 toc: true
 ---
 

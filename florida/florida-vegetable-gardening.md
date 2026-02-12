@@ -31,8 +31,6 @@ keywords:
   - florida hurricane garden
 description: "The complete guide to vegetable gardening in Florida. Month-by-month planting calendars, 30+ vegetable profiles, and region-specific advice for North Florida, Central Florida, and South Florida. Covers sandy soil solutions, water management, humidity-driven pest and disease control, hurricane preparedness, and year-round growing strategies."
 belongs-to-collection: "Harvest Home Guides"
-cover-image: "cover.jpg"
-css: "style.css"
 toc: true
 ---
 

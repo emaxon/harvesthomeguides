@@ -29,8 +29,6 @@ keywords:
   - elevation gardening
 description: "The complete guide to vegetable gardening in the American Southwest. Region-specific planting calendars for Arizona, New Mexico, Nevada, Utah, and parts of Colorado. Covers extreme heat strategies, alkaline soil management, water-efficient irrigation, monsoon season planting, and elevation-adjusted growing calendars from zone 5 mountain towns to zone 10 desert floors."
 belongs-to-collection: "Harvest Home Guides"
-cover-image: "cover.jpg"
-css: "style.css"
 toc: true
 ---
 

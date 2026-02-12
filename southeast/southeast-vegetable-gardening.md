@@ -29,8 +29,6 @@ keywords:
   - raised bed gardening south
 description: "The complete guide to vegetable gardening in the Southeast. Month-by-month planting calendars, 50+ vegetable profiles, and region-specific advice for Georgia, Alabama, Mississippi, Louisiana, South Carolina, North Carolina, Tennessee, and Arkansas. Covers soil, water, pests, disease management, and season extension for USDA zones 6b–9a."
 belongs-to-collection: "Harvest Home Guides"
-cover-image: "cover.jpg"
-css: "style.css"
 toc: true
 ---
 

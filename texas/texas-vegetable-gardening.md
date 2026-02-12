@@ -27,8 +27,6 @@ keywords:
   - north texas vegetable garden
 description: "The complete guide to vegetable gardening in Texas. Month-by-month planting calendars, 25+ vegetable profiles, and region-specific advice for North Texas, Central Texas, Gulf Coast, South Texas, and West Texas. Covers soil, water, pests, and season extension."
 belongs-to-collection: "Harvest Home Guides"
-cover-image: "cover.jpg"
-css: "style.css"
 toc: true
 ---
 

@@ -27,8 +27,6 @@ keywords:
   - pacific northwest rain gardening
 description: "The complete guide to vegetable gardening in the Pacific Northwest. Month-by-month planting calendars, 25+ vegetable profiles, and region-specific advice for Western Washington, Western Oregon, Eastern Washington, Eastern Oregon, and Northern Idaho. Covers soil, water, pests, season extension, and year-round growing strategies for zones 6–9."
 belongs-to-collection: "Harvest Home Guides"
-cover-image: "cover.jpg"
-css: "style.css"
 toc: true
 ---
 

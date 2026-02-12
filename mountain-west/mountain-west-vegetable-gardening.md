@@ -27,8 +27,6 @@ keywords:
   - wildlife proof garden
 description: "The complete guide to vegetable gardening in the Mountain West. High-altitude techniques, short-season strategies, frost management, and 30+ vegetable profiles for Colorado, Utah, Idaho, Montana, and Wyoming. Covers alkaline soils, intense UV, wildlife pressure, water rights, and season extension for USDA Zones 3a–7a."
 belongs-to-collection: "Harvest Home Guides"
-cover-image: "cover.jpg"
-css: "style.css"
 toc: true
 ---
 

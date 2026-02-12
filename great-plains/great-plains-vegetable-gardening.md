@@ -27,8 +27,6 @@ keywords:
   - drought tolerant vegetables
 description: "The definitive guide to vegetable gardening across the Great Plains. Region-specific planting calendars, 30+ vegetable profiles, and hard-won advice for Kansas, Nebraska, Oklahoma, North Dakota, and South Dakota. Covers wind protection, extreme temperature swings, prairie soil management, water conservation, and season extension for USDA Zones 4a through 7b."
 belongs-to-collection: "Harvest Home Guides"
-cover-image: "cover.jpg"
-css: "style.css"
 toc: true
 ---
 

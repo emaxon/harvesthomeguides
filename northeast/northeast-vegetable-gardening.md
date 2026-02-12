@@ -33,8 +33,6 @@ keywords:
   - massachusetts vegetable garden
 description: "The complete guide to vegetable gardening in the Northeast United States. Month-by-month planting calendars, 25+ vegetable profiles, and region-specific advice for New England, New York, New Jersey, and Pennsylvania. Covers rocky and acidic soils, short growing seasons, deer management, season extension, and cold-hardy varieties for zones 4 through 7."
 belongs-to-collection: "Harvest Home Guides"
-cover-image: "cover.jpg"
-css: "style.css"
 toc: true
 ---
 

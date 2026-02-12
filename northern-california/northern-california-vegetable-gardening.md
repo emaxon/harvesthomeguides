@@ -31,8 +31,6 @@ keywords:
   - california native soil
 description: "The complete guide to vegetable gardening in Northern California. Region-specific planting calendars, 30+ vegetable profiles, and expert advice for the Bay Area, Sacramento Valley, Wine Country, and Sierra Foothills. Covers Mediterranean climate mastery, drought-smart irrigation, fire-safe gardening, and microclimate strategies for USDA Zones 7a–10a."
 belongs-to-collection: "Harvest Home Guides"
-cover-image: "cover.jpg"
-css: "style.css"
 toc: true
 ---
 
