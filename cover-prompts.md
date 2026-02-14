@@ -16,17 +16,33 @@
 - Series title + Book title: **Playfair Display Bold** (Google Fonts, free)
 - Author name: **Lato** light or regular (Google Fonts, free)
 
+**Text Area Layout (top to bottom):**
+```
+  HARVEST HOME GUIDES           Playfair Display Bold, 28-32pt
+                                Terracotta #C1582A, ALL CAPS, +2-4px letter-spacing
+
+  [Region]                      Playfair Display Bold, 64-80pt
+  Vegetable Gardening           Deep forest green #2D5A3D, title case
+
+  ── thin decorative rule ──    Optional: terracotta or gold #D4A843, ~60px wide
+
+  Evan Maxon                    Lato Light, 24-28pt
+                                Warm gray #6B5B4E
+```
+
+**⚠️ IMPORTANT: The text area is IDENTICAL across all 10 books.** Same colors, same fonts, same layout. Only the region name and illustration change. This is what makes it look like a professional series on Amazon.
+
 **Workflow:**
 1. Generate illustration via Grok using prompts below (image only, no text)
 2. Place illustration in top section of Figma template
-3. Add text in bottom section using specs above
+3. Add text in bottom section using specs above (same template for every book)
 4. Export as 1600×2560 JPEG
 
 ---
 
 ## Grok Image Prompts
 
-**Style notes:** Prompts generate the ILLUSTRATION ONLY. Text is overlaid in Figma. Each prompt asks for open space at top 20% and bottom 30% for text, but since we're using the split layout (image top / text bottom), the full image area can be used.
+**Style notes:** Prompts generate the ILLUSTRATION ONLY. Text is overlaid in Figma. Regional accent colors noted below are for the ILLUSTRATIONS only — they describe the natural color palette of each region's scene. The text area stays consistent across all books.
 
 **Grok Prompt:**
 > A warm, sunlit vegetable garden scene in the Texas Hill Country. In the foreground, a rustic wooden raised bed overflowing with ripe red tomatoes, jalapeño peppers, purple okra, and black-eyed peas on the vine. A terracotta pot of basil sits nearby. The midground shows dry golden grass and a single sprawling live oak tree casting dappled shade. Background: rolling limestone hills under a vast blue Texas sky with wispy clouds. Golden hour light from the left. Style: rich, warm, photorealistic with a painterly softness. Aspect ratio 5:8 vertical. The top 20% and bottom 30% should be relatively uncluttered (sky at top, soft ground at bottom) to allow text overlay.
@@ -46,7 +62,7 @@
 ## 2. Florida Vegetable Gardening
 
 **Grok Prompt:**
-> A lush tropical vegetable garden in Florida. Foreground: a vibrant raised bed with sweet potatoes, cherry tomatoes, Everglades tomatoes, Seminole pumpkins trailing over the edge, and lush collard greens. A few ripe Meyer lemons on a small citrus tree to the side. Midground: a white picket fence draped with passion fruit vine. Background: palm trees silhouetted against a soft pastel sunrise sky in coral and lavender. Warm humid morning light with soft diffusion. Style: bright, saturated, photorealistic with painterly warmth. Vertical 5:8 aspect ratio. Top 20% and bottom 30% kept simple for text overlay.
+> A single lush raised garden bed with ripe tomatoes and trailing Seminole pumpkin vines in a sunny Florida backyard. A small Meyer lemon tree nearby. White picket fence in the soft background with palm trees against a warm pastel sunrise sky. Shallow depth of field, golden morning light, photorealistic style. Vertical 5:8 aspect ratio.
 
 **Key Visual Elements:**
 - Seminole pumpkin, sweet potato, Everglades tomatoes, collard greens
