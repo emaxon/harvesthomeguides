@@ -1,17 +1,32 @@
-# Harvest Home Guides — Book Cover Prompts for Grok Image Generation
+# Harvest Home Guides — Book Cover Design Guide
 
-## Series Design Template
+## Figma Cover Specs
 
-**Consistent elements across all 10 covers:**
-- **Layout:** Top 25% — series banner "HARVEST HOME GUIDES" in a warm terracotta/rust ribbon or banner. Middle 50% — hero illustration. Bottom 25% — title "[Region] Vegetable Gardening" in large, bold serif font. Author "Evan Maxon" below in smaller complementary font.
-- **Style:** Warm, sunlit watercolor-meets-photography hybrid. Lush, abundant, slightly idealized. NOT clip art. Think Gibbs Smith or Timber Press cover quality.
-- **Shared palette base:** Warm cream/linen background (#F5F0E1), terracotta banner (#C1582A), deep forest green text accents (#2D5A3D), warm gold highlights (#D4A843).
-- **Dimensions:** 1600×2560px (Kindle). Paperback adds spine (varies by page count ~0.5") and back cover.
-- **Text-free zone:** Prompts generate the ILLUSTRATION ONLY. Text will be overlaid in design software. Leave clear space at top 20% and bottom 30% for text overlay (lighter/simpler background in those zones).
+**Layout:** Image on top, text block on solid background below (same structure as Lush Lawns).
+
+**Dimensions:** 1600 × 2560 px (Kindle front cover)
+
+**Text Area Colors:**
+- Background: Warm cream/linen `#F5F0E1`
+- Series title ("Harvest Home Guides"): Terracotta `#C1582A`
+- Book title (e.g. "Texas Vegetable Gardening"): Deep forest green `#2D5A3D`
+- Author name ("Evan Maxon"): Muted warm gray `#6B5B4E`
+
+**Fonts:**
+- Series title + Book title: **Playfair Display Bold** (Google Fonts, free)
+- Author name: **Lato** light or regular (Google Fonts, free)
+
+**Workflow:**
+1. Generate illustration via Grok using prompts below (image only, no text)
+2. Place illustration in top section of Figma template
+3. Add text in bottom section using specs above
+4. Export as 1600×2560 JPEG
 
 ---
 
-## 1. Texas Vegetable Gardening
+## Grok Image Prompts
+
+**Style notes:** Prompts generate the ILLUSTRATION ONLY. Text is overlaid in Figma. Each prompt asks for open space at top 20% and bottom 30% for text, but since we're using the split layout (image top / text bottom), the full image area can be used.
 
 **Grok Prompt:**
 > A warm, sunlit vegetable garden scene in the Texas Hill Country. In the foreground, a rustic wooden raised bed overflowing with ripe red tomatoes, jalapeño peppers, purple okra, and black-eyed peas on the vine. A terracotta pot of basil sits nearby. The midground shows dry golden grass and a single sprawling live oak tree casting dappled shade. Background: rolling limestone hills under a vast blue Texas sky with wispy clouds. Golden hour light from the left. Style: rich, warm, photorealistic with a painterly softness. Aspect ratio 5:8 vertical. The top 20% and bottom 30% should be relatively uncluttered (sky at top, soft ground at bottom) to allow text overlay.
