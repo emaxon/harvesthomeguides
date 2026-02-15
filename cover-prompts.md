@@ -96,7 +96,7 @@
 ## 4. Midwest Vegetable Gardening
 
 **Grok Prompt:**
-> A bountiful Midwestern backyard vegetable garden in peak summer. Foreground: a classic garden plot with tall sweet corn stalks, sprawling zucchini with large yellow blossoms, ripe beefsteak tomatoes on wire cages, green beans on a trellis, and heads of cabbage. A red metal watering can sits on the soil. Midground: a red barn partially visible behind a white fence. Background: flat, expansive farmland stretching to the horizon under a big open sky with puffy cumulus clouds. Warm, direct midday summer sun. Style: bright, wholesome, photorealistic with slight painterly warmth. Vertical 5:8. Open sky at top, soft ground at bottom for text.
+> A thriving backyard vegetable garden in the Midwest in peak summer. Tall sweet corn stalks alongside a bushy tomato plant heavy with ripe red fruit, and sprawling zucchini with yellow blossoms spilling over the garden edge. A red barn and white fence in the midground, flat farmland and big open sky with puffy clouds beyond. Lush green, well-tended garden feel. Warm golden afternoon light, photorealistic style. Vertical 5:8 aspect ratio.
 
 **Key Visual Elements:**
 - Sweet corn, zucchini, beefsteak tomatoes, green beans, cabbage
@@ -130,7 +130,7 @@
 ## 6. Pacific Northwest Vegetable Gardening
 
 **Grok Prompt:**
-> A lush Pacific Northwest vegetable garden on a misty morning. Foreground: dense raised beds of deep green kale, lettuce varieties, sugar snap peas climbing a cedar trellis, plump garlic bulbs freshly pulled, and bright orange carrots half-emerged from dark rich soil. Rain droplets on the leaves. Midground: a mossy wooden fence with climbing nasturtiums. Background: towering Douglas fir trees fading into soft fog, distant suggestion of a snow-capped mountain (Rainier-like). Cool, diffused overcast light with rays breaking through. Style: moody, lush, photorealistic with atmospheric painterly quality. Vertical 5:8. Top misty and bottom soft for text.
+> A raised cedar garden bed with kale, sugar snap peas on a simple trellis, and ripe blueberry bushes in a green Pacific Northwest backyard. Soft overcast light filtering through tall Douglas fir trees in the background. Lush, dewy, mild summer morning. Relaxed and inviting. Photorealistic style. Vertical 5:8 aspect ratio.
 
 **Key Visual Elements:**
 - Kale, lettuce, snap peas, garlic, carrots
@@ -147,7 +147,7 @@
 ## 7. Southwest Vegetable Gardening
 
 **Grok Prompt:**
-> A vibrant desert vegetable garden in the American Southwest. Foreground: adobe-walled raised bed with chile peppers (red and green Hatch chiles), tomatillos in their papery husks, ripe tomatoes, and squash blossoms. A few prickly pear cactus pads at the edge. Midground: traditional ristras (dried red chile strings) hanging from a weathered wooden post. Background: dramatic red rock mesa formations under a vivid turquoise sky with a few high clouds. Warm, bright desert sun. Style: vibrant, bold, photorealistic with painterly warmth. Vertical 5:8. Sky open at top, foreground soft at bottom for text.
+> A sunny backyard vegetable garden in the American Southwest. Raised adobe-edged beds overflowing with green and red chile peppers, ripe cherry tomatoes on the vine, golden squash, and bushy cilantro. A terracotta pot with herbs and a small potted fig tree nearby. Stucco wall and a wooden gate in the midground, with a clear blue desert sky above. Warm, bright, dry afternoon light. Inviting suburban feel. Photorealistic style. Vertical 5:8 aspect ratio.
 
 **Key Visual Elements:**
 - Hatch chiles, tomatillos, squash blossoms, tomatoes
@@ -164,7 +164,7 @@
 ## 8. Northern California Vegetable Gardening
 
 **Grok Prompt:**
-> A bountiful Northern California vegetable garden with Mediterranean flair. Foreground: overflowing wooden crates and beds with artichokes, heirloom tomatoes in multiple colors, fresh basil, fennel bulbs, and Meyer lemons on a small tree. A bottle of olive oil and garlic braid nearby for farm-to-table feel. Midground: grapevine-covered arbor over a garden path. Background: golden rolling hills dotted with live oaks, a vineyard row visible in the distance, under a clear warm sky fading from blue to golden at the horizon. Late afternoon golden light. Style: warm, abundant, farm-to-table aesthetic, photorealistic with painterly glow. Vertical 5:8. Open areas at top and bottom for text.
+> A vibrant backyard vegetable garden in Northern California wine country. Raised wooden beds with ripe heirloom tomatoes in red and yellow, artichoke plants, leafy lettuce, and climbing pole beans. A fig tree and potted rosemary nearby. A wooden pergola and olive tree in the soft midground, golden rolling hills under a clear blue sky beyond. Warm, golden afternoon light. Relaxed Mediterranean feel. Photorealistic style. Vertical 5:8 aspect ratio.
 
 **Key Visual Elements:**
 - Artichokes, heirloom tomatoes, basil, fennel, Meyer lemons
@@ -181,7 +181,7 @@
 ## 9. Mountain West Vegetable Gardening
 
 **Grok Prompt:**
-> A high-altitude vegetable garden in the Mountain West (Colorado/Utah feel). Foreground: sturdy raised beds with cool-weather crops — lettuce, spinach, radishes, beets with crimson stems, and snap peas on a simple wire trellis. A few hardy marigolds for companion planting. The soil is dark and gravelly. Midground: a rustic log fence with a garden tool (hoe) leaning against it. Background: dramatic snow-capped Rocky Mountain peaks under a deep blue high-altitude sky with brilliant white clouds. Crisp, bright mountain sunlight with sharp shadows. Style: bright, crisp, photorealistic with painterly clarity. Vertical 5:8. Sky and ground open for text.
+> A backyard vegetable garden in a Mountain West town on a bright summer morning. Raised cedar beds with bushy tomato plants, snap peas on a trellis, rainbow chard, and zucchini with yellow blossoms. A wooden fence and aspens with green leaves in the midground, snow-capped peaks soft and distant on the horizon. Clean mountain air feel, bright sunlight. Inviting and suburban. Photorealistic style. Vertical 5:8 aspect ratio.
 
 **Key Visual Elements:**
 - Lettuce, spinach, radishes, beets, snap peas, marigolds
@@ -198,7 +198,7 @@
 ## 10. Great Plains Vegetable Gardening
 
 **Grok Prompt:**
-> A hardy vegetable garden on the Great Plains under a dramatic open sky. Foreground: a well-tended garden plot with rows of hearty tomatoes staked against the wind, bush beans, onions with tops falling over, winter squash (butternut and acorn) sprawling across straw mulch, and sunflowers towering at the garden edge. A windmill-style garden ornament or old metal windmill visible. Midground: a simple wire and post fence with a prairie grass border. Background: vast, flat prairie extending to a huge open sky taking up the top third, dramatic cumulus clouds lit gold and amber by the setting sun. Warm, wind-swept golden hour light. Style: expansive, resilient, photorealistic with painterly warmth. Vertical 5:8. Big sky at top and soft ground at bottom for text.
+> A thriving backyard vegetable garden on the Great Plains in midsummer. Raised beds with tall tomato plants heavy with fruit, green beans, summer squash, and rows of leafy greens. A sunflower patch along a wooden fence in the midground. Open prairie sky with soft clouds stretching wide above. Warm, bright afternoon light. Friendly, heartland suburban feel. Photorealistic style. Vertical 5:8 aspect ratio.
 
 **Key Visual Elements:**
 - Tomatoes, bush beans, onions, butternut/acorn squash, sunflowers
